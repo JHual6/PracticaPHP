@@ -1,0 +1,15 @@
+{
+  "name": "jotas/09_composer",
+  "autoload": {
+    "psr-4": {
+      "Jotas\\Testing\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "JHual6",
+      "email": "jo.huala@duocuc.cl"
+    }
+  ],
+  "require": {}
+}
